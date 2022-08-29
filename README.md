@@ -2,7 +2,7 @@
 
 Implementation Of A* Search Algorithm using OpenStreetMap.
 
-############################################################################# Cloning
+Cloning
 
 When cloning this project, be sure to use the --recurse-submodules flag. Using HTTPS:
 
