@@ -1,4 +1,4 @@
-# CppND-Route-Planning-Project
+# A* Search Algorithm Based Route-Planning-Project
 
 Implementation Of A* Search Algorithm using OpenStreetMap.
 
